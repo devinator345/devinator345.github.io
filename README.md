@@ -12,7 +12,7 @@ This neural network will provide an look into the way we as people understand to
 
 The goal is to train the neural network to act as a human does and quickly decide what the most likely genre of movie is being shown, and gain some insight into the way we percieve ambigous information.
 
-It should be noted that the original idea for this project is to do the same process with the actual films or the screenplays, though due to a limited understand of the difficulty of those processes, the idea has been modified to a possibly more managable form. 
+It should be noted that the original idea for this project is to do the same process with the actual films or the scripts, though due to a limited understand of the difficulty of those processes, the idea has been modified to a possibly more managable form. 
 
 ## Project Goals:
 
